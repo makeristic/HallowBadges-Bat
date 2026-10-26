@@ -138,7 +138,6 @@
     (fp_text value Val** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (fp_line (start -48.79006 47.995) (end -48.79006 47.995) (layer Edge.Cuts) (width 0.1))
     (fp_line (start -48.72815 47.9714) (end -48.79006 47.995) (layer Edge.Cuts) (width 0.1))
     (fp_line (start -48.63544 47.9364) (end -48.72815 47.9714) (layer Edge.Cuts) (width 0.1))
     (fp_line (start -48.54217 47.9016) (end -48.63544 47.9364) (layer Edge.Cuts) (width 0.1))
@@ -3730,7 +3729,6 @@
     (fp_line (start -48.62373 47.8355) (end -48.55202 47.7651) (layer Edge.Cuts) (width 0.1))
     (fp_line (start -48.69746 47.907) (end -48.62373 47.8355) (layer Edge.Cuts) (width 0.1))
     (fp_line (start -48.79006 47.995) (end -48.69746 47.907) (layer Edge.Cuts) (width 0.1))
-    (fp_line (start -48.79006 47.995) (end -48.79006 47.995) (layer Edge.Cuts) (width 0.1))
     (fp_poly (pts (xy 49.618159 -39.375154) (xy 49.680971 -39.334287) (xy 49.734983 -39.294536) (xy 49.79115 -39.249751)
       (xy 49.721558 -39.1035) (xy 49.152104 -37.865933) (xy 48.618448 -36.62134) (xy 48.119799 -35.36718)
       (xy 47.655366 -34.100914) (xy 47.224357 -32.819999) (xy 46.82598 -31.521896) (xy 46.459444 -30.204064)
